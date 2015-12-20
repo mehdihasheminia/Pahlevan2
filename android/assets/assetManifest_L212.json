@@ -1,0 +1,16 @@
+{
+"textures": [
+	"textures/girl9.atlas",
+	"textures/naruto.atlas"
+],
+"images": [
+],
+"levels": [
+	"levels/L212.tmx"
+],
+"particles": [
+],
+"sounds": [
+	"sounds/walking.wav"
+]
+}

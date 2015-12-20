@@ -1,0 +1,17 @@
+{
+"textures": [
+	"textures/man5.atlas",
+	"textures/naruto.atlas",
+	],
+"images": [
+],
+"levels": [
+	"levels/L211.tmx"
+],
+"particles": [
+
+],
+"sounds": [
+	"sounds/walking.wav"
+]
+}

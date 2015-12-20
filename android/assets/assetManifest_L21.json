@@ -1,0 +1,26 @@
+{
+"textures": [
+	"textures/bird.atlas",
+	"textures/girl6.atlas",	
+	"textures/man3.atlas",
+	"textures/master.atlas",
+	"textures/naruto.atlas",
+	"textures/oldman1.atlas",
+	"textures/elve1.atlas"
+	],
+"images": [
+	"images/dialog.png"
+],
+"levels": [
+	"levels/L21.tmx",
+],
+"particles": [
+	"particles/fire.prc",
+	"particles/WaterFountain.prc"
+],
+"sounds": [
+	"sounds/bird.wAV",
+	"sounds/bird_idle.mp3",
+	"sounds/walking.wav"
+]
+}

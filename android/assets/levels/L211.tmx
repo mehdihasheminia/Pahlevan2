@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="64" height="32" tilewidth="32" tileheight="32" nextobjectid="30">
+ <tileset firstgid="1" name="VILINT" tilewidth="32" tileheight="32">
+  <image source="Tiles/VILINT.png" width="512" height="384"/>
+ </tileset>
+ <tileset firstgid="193" name="VILFLR" tilewidth="32" tileheight="32">
+  <image source="Tiles/VILFLR.png" width="512" height="384"/>
+ </tileset>
+ <tileset firstgid="385" name="TOWNDOOR" tilewidth="32" tileheight="32">
+  <image source="Tiles/TOWNDOOR.png" width="512" height="384"/>
+ </tileset>
+ <tileset firstgid="577" name="KITCHEN" tilewidth="32" tileheight="32">
+  <image source="Tiles/KITCHEN.png" width="512" height="384"/>
+ </tileset>
+ <tileset firstgid="769" name="bench" tilewidth="32" tileheight="32">
+  <image source="Tiles/bench.png" width="512" height="384"/>
+ </tileset>
+ <layer name="bornaapp_path" width="64" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt1LEJACAMRUH3H8+JbLSRWIkIyR2k+81r0hoAAAC3+rzbTXb689mbenCnbQZRY7X+F9uM9NcU/YJKqnYv+gGAHwa4zhlv
+  </data>
+ </layer>
+ <layer name="floor" width="64" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt1EEKgDAMRNHe/3gipXgaU1AIkqgguMj8B7PpbtI2rQEAAAAAvlqOrJbNMizdnftUNIJk86joqbOfS0VvelfuH/WcUXn/2f2r9I/+v1L/rGu0DypS338ntb13lb0DlRnc/QMAAPC/HeI2ZSc=
+  </data>
+ </layer>
+ <layer name="walls" width="64" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt070KwjAUhuFeg1JER6WIjkoRXaWIa0fx5wb8AUcvQycdFQe9Sr8hhXBokSBJJHwvPFMynANJFDHGGGOMMfZ7NahDrGkosdCElp8xrdWGDiSarpIIPej7GdNaAxhCqhkpqTCGiZ8xrZXDFDLNTMmEOSz8jGmt3PA+9w8r7m8W9w8r7m9WaPuf4QJLWFXcWcMGrnBzNJer7vCALewq7uzhAC94O5rLdccv5ycnU/ir+AdlhfjuZcU/eJYI+d0zxhj77z7vWx9K
+  </data>
+ </layer>
+ <layer name="door1" width="64" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztz1ERABAURcGrfz4akIMOPp4ZuwnOSQAAAAAAAO70loxWXVFnnvf18T8Ab9iYDAN7
+  </data>
+ </layer>
+ <layer name="door2" width="64" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztz1ERABAURcGrfzwaEIQOPp4ZuwnOSQAAAAAAAO70loxWXVFnnvf18T8Ab9hfnANz
+  </data>
+ </layer>
+ <layer name="decorations" width="64" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztz0sKg0AQhOGmB3IANR4gPi6iQvYmkH0S8P4nSO1mFuPORRz+DwoKil60GQAAAICj3D32SX1WFs/vJXol/63qD+Xp+b1EW/LfW/2jfD2/A6WqglmtNMpVaUPcLmH/7szSv27qndIrgzIW+jMAAAAA4D/9ABPvBms=
+  </data>
+ </layer>
+ <objectgroup color="#ff0000" name="bornaapp_collision">
+  <object id="5" x="740" y="349.333" width="345.333" height="58.6667"/>
+  <object id="6" x="772" y="410.667" width="22.6667" height="32"/>
+  <object id="7" x="1028" y="409.333" width="21.3333" height="34.6667"/>
+  <object id="8" x="1060" y="518.667" width="21.3333" height="18.6667"/>
+  <object id="9" x="741.333" y="552" width="20" height="14.6667"/>
+  <object id="10" x="836" y="522.667" width="153.333" height="42.6667"/>
+  <object id="12" x="700" y="318.667" width="34.6667" height="429.333"/>
+  <object id="13" x="738.667" y="705.333" width="56" height="136"/>
+  <object id="14" x="1088" y="321.333" width="81.3333" height="413.333"/>
+  <object id="16" x="1024" y="704" width="57.3333" height="130.667"/>
+  <object id="17" x="798.667" y="798.667" width="214.667" height="37.3333"/>
+ </objectgroup>
+ <objectgroup color="#ffff00" name="bornaapp_checkpoints">
+  <object id="18" name="narutu_start" x="904" y="678.667"/>
+  <object id="22" name="vendor_start" x="991" y="467"/>
+  <object id="23" name="vendor_stop" x="786.333" y="629.333"/>
+ </objectgroup>
+ <objectgroup color="#00aaff" name="bornaapp_portals">
+  <object id="28" name="exit" x="859" y="771" width="139" height="42"/>
+ </objectgroup>
+</map>

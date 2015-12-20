@@ -1,0 +1,88 @@
+master.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WD01
+  rotate: false
+  xy: 2, 92
+  size: 26, 43
+  orig: 32, 48
+  offset: 3, 0
+  index: -1
+WD02
+  rotate: false
+  xy: 2, 2
+  size: 27, 43
+  orig: 32, 48
+  offset: 3, 1
+  index: -1
+WD03
+  rotate: false
+  xy: 2, 137
+  size: 26, 43
+  orig: 32, 48
+  offset: 4, 0
+  index: -1
+WL01
+  rotate: false
+  xy: 2, 272
+  size: 22, 42
+  orig: 32, 48
+  offset: 6, 1
+  index: -1
+WL02
+  rotate: false
+  xy: 2, 448
+  size: 21, 43
+  orig: 32, 48
+  offset: 6, 1
+  index: -1
+WL03
+  rotate: false
+  xy: 2, 316
+  size: 22, 42
+  orig: 32, 48
+  offset: 5, 1
+  index: -1
+WR01
+  rotate: false
+  xy: 2, 360
+  size: 22, 42
+  orig: 32, 48
+  offset: 4, 1
+  index: -1
+WR02
+  rotate: false
+  xy: 2, 493
+  size: 21, 43
+  orig: 32, 48
+  offset: 5, 1
+  index: -1
+WR03
+  rotate: false
+  xy: 2, 404
+  size: 22, 42
+  orig: 32, 48
+  offset: 5, 1
+  index: -1
+WU01
+  rotate: false
+  xy: 2, 182
+  size: 26, 43
+  orig: 32, 48
+  offset: 3, 0
+  index: -1
+WU02
+  rotate: false
+  xy: 2, 47
+  size: 27, 43
+  orig: 32, 48
+  offset: 3, 1
+  index: -1
+WU03
+  rotate: false
+  xy: 2, 227
+  size: 26, 43
+  orig: 32, 48
+  offset: 4, 0
+  index: -1

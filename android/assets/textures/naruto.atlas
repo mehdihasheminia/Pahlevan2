@@ -1,0 +1,228 @@
+naruto.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WD01
+  rotate: false
+  xy: 2, 2
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+WD02
+  rotate: false
+  xy: 2, 68
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+WD03
+  rotate: false
+  xy: 2, 134
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+WD04
+  rotate: false
+  xy: 2, 68
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+WD05
+  rotate: false
+  xy: 2, 200
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+WD06
+  rotate: false
+  xy: 2, 266
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+WD07
+  rotate: false
+  xy: 2, 332
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+WD08
+  rotate: false
+  xy: 2, 266
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+WL01
+  rotate: false
+  xy: 2, 398
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+WL02
+  rotate: false
+  xy: 2, 464
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+WL03
+  rotate: false
+  xy: 2, 530
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+WL04
+  rotate: false
+  xy: 2, 464
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+WL05
+  rotate: false
+  xy: 2, 596
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+WL06
+  rotate: false
+  xy: 2, 662
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+WL07
+  rotate: false
+  xy: 2, 728
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+WL08
+  rotate: false
+  xy: 2, 662
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+WR01
+  rotate: false
+  xy: 2, 794
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+WR02
+  rotate: false
+  xy: 2, 860
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+WR03
+  rotate: false
+  xy: 2, 926
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+WR04
+  rotate: false
+  xy: 2, 860
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+WR05
+  rotate: false
+  xy: 2, 794
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+WR06
+  rotate: false
+  xy: 2, 992
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+WR07
+  rotate: false
+  xy: 2, 1058
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+WR08
+  rotate: false
+  xy: 2, 992
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+WU01
+  rotate: false
+  xy: 2, 1124
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+WU02
+  rotate: false
+  xy: 2, 1190
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+WU03
+  rotate: false
+  xy: 2, 1256
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+WU04
+  rotate: false
+  xy: 2, 1190
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+WU05
+  rotate: false
+  xy: 2, 1322
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+WU06
+  rotate: false
+  xy: 2, 1388
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+WU07
+  rotate: false
+  xy: 2, 1454
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+WU08
+  rotate: false
+  xy: 2, 1388
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1

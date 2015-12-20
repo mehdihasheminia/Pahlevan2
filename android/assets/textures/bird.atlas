@@ -1,0 +1,60 @@
+bird.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0001
+  rotate: false
+  xy: 2, 269
+  size: 55, 35
+  orig: 64, 64
+  offset: 2, 13
+  index: -1
+0002
+  rotate: false
+  xy: 2, 88
+  size: 56, 43
+  orig: 64, 64
+  offset: 0, 19
+  index: -1
+0003
+  rotate: false
+  xy: 2, 2
+  size: 59, 38
+  orig: 64, 64
+  offset: 1, 19
+  index: -1
+0004
+  rotate: false
+  xy: 2, 181
+  size: 55, 43
+  orig: 64, 64
+  offset: 0, 4
+  index: -1
+0005
+  rotate: false
+  xy: 2, 133
+  size: 55, 46
+  orig: 64, 64
+  offset: 1, 2
+  index: -1
+0006
+  rotate: false
+  xy: 2, 42
+  size: 56, 44
+  orig: 64, 59
+  offset: 1, 1
+  index: -1
+0007
+  rotate: false
+  xy: 2, 306
+  size: 55, 34
+  orig: 64, 64
+  offset: 0, 14
+  index: -1
+0008
+  rotate: false
+  xy: 2, 226
+  size: 55, 41
+  orig: 64, 64
+  offset: 1, 21
+  index: -1

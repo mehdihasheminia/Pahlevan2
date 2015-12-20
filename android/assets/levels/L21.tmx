@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="64" height="32" tilewidth="32" tileheight="32" nextobjectid="69">
+ <tileset firstgid="1" name="tilesheet" tilewidth="32" tileheight="32">
+  <image source="Tiles/tilesheet.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="257" name="TOWNTOP" tilewidth="32" tileheight="32">
+  <image source="Tiles/TOWNTOP.png" width="512" height="384"/>
+ </tileset>
+ <tileset firstgid="449" name="TOWNBOT" tilewidth="32" tileheight="32">
+  <image source="Tiles/TOWNBOT.png" width="512" height="384"/>
+ </tileset>
+ <tileset firstgid="641" name="TOWNBOT2" tilewidth="32" tileheight="32">
+  <image source="Tiles/TOWNBOT2.png" width="512" height="384"/>
+ </tileset>
+ <tileset firstgid="833" name="TOWNJNT" tilewidth="32" tileheight="32">
+  <image source="Tiles/TOWNJNT.png" width="512" height="384"/>
+ </tileset>
+ <tileset firstgid="1025" name="TOWNJNT2" tilewidth="32" tileheight="32">
+  <image source="Tiles/TOWNJNT2.png" width="512" height="384"/>
+ </tileset>
+ <tileset firstgid="1217" name="VILINT" tilewidth="32" tileheight="32">
+  <image source="Tiles/VILINT.png" width="512" height="384"/>
+ </tileset>
+ <tileset firstgid="1409" name="VILFLR" tilewidth="32" tileheight="32">
+  <image source="Tiles/VILFLR.png" width="512" height="384"/>
+ </tileset>
+ <tileset firstgid="1601" name="FENCE" tilewidth="32" tileheight="32">
+  <image source="Tiles/FENCE.png" width="512" height="384"/>
+ </tileset>
+ <tileset firstgid="1793" name="TOWNDOOR" tilewidth="32" tileheight="32">
+  <image source="Tiles/TOWNDOOR.png" width="512" height="384"/>
+ </tileset>
+ <tileset firstgid="1985" name="fountain1" tilewidth="32" tileheight="32">
+  <image source="Tiles/fountain1.png" width="232" height="160"/>
+ </tileset>
+ <tileset firstgid="2020" name="TOWNWIN" tilewidth="32" tileheight="32">
+  <image source="Tiles/TOWNWIN.png" width="512" height="384"/>
+ </tileset>
+ <tileset firstgid="2212" name="bench" tilewidth="32" tileheight="32">
+  <image source="Tiles/bench.png" width="512" height="384"/>
+ </tileset>
+ <layer name="bornaapp_path" width="64" height="32" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztmEsKACEMQ93N/Y/nbdwPKq001NQE3Eht+rDgp3+t9ccHSqvcFs+omN0a8Ytf/P4cJ16WeUTMbo34xR/Jbz1bK/NHxVXnX3l77mWs/JF+Xs+K/JaemcUwvSUQYqw5UtX4vT3JxG/hep3/NCeD/nWKPyYnE//L/Y+Q+MUv/uwq8iR+8aP5b347z3yz/gRu4s9QRm8g9pptDGNTMzA=
+  </data>
+ </layer>
+ <layer name="ground" width="64" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztlrENwjAQRd2ngJ4C9xRkEMQEwATABIQJgHnCBmErLhInfSIT7Ng4yeHiNZEd5cfvn5wppbJIrIi5A5pYw/4TURDngN80i0idf2kJ5uf9mD/UNy0iwvlzi7WYn59h/lDfFMt99F9brJXsf26xltdJ83/iwFTJ859z1fzj/Of8Gv5DG9L853O1RaL/rv2X5L+p5zgTcDZoJc9/PFsE54JW7/2X5H+X/kvxf0NsHdnB/rH778vY/e/Cnji8KAB+dvR8f0z/u1CfeUncDYToQt9O2zhfEQ8DIbrQdGxoVC00u9AFnKtDpIS8pvP3pXbgQlwHStkCZ/B5f9/z/Rs8/z7l970L9T3fbeZ/W/+lz3/sJvaWn90839+3365dGPP9P0QX0v3/v+7/yf/kf/I/+f8r/5/+C2E2
+  </data>
+ </layer>
+ <layer name="town up" width="64" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt00dPVUEYxvF7z6jRWBYCigouBBQFXFiisWwEFAVcCCgKuNCLKOBGQRTwW1hiWVpiWVpiWVpiWVpiWVpi+RD+7+7mOcycOcndmMyT/DLhnPe+MxPekzOZTD+OYADHMIghDCMn7/VvrW/NZjJtaMduTBXD82mYjhmYiVmYjTmYi3mW3/r00dXVd4Qzj+IUxnAG45jApIm/T6rvoX8v+nDQcocSnpeiDAtQjkVYggpUYqnH/W19dHX1PceZz+MCLuISLuMKrpr4e+2t9Ysj9kMFKqOpz13F76pRg+WoxUrUoR4NWO1xf1sfXV19r3Hm67iBm7iF27iDuyb+Xntr/SruXId6NFju38jvmtCM7WjBzqzft+PTR1dX33uc+T4e4CEe4TGe4KmJv9feWr+JO2/GFmy13L+D33WiC3vRjf1Zv2/Hp4+urr7POPNzvMBLvMJrvMFbE3+vvbV+F3duRRvaLfefz/MSlKIMC1Ee+X07xf7/v+PM7/EBH/EJn/EFX038vfbW+gOcuwe96LPcYRnPq1CNGqxAbeT37RT7//+NM3/HD/zEL/zGH/w18ffaW+sHOfcQhnHccoc1PF+LdViPDdgY+X07hbHNka6uudIeWpu0R9qZzWcbdY1oQjN2oCXy+3YKY5sjXV1zpT20NmmPtDObzx7qOtCJLuxDd+T37RTGNke6uuZKe2ht0h5pZzafQ9QdRg79GMDRyO/bKYxtjnR1zZX20NqkPdLObD4nqDuJEYxiDKcxjglM4qxHL9sc6eqaK+2htUl7pJ3ZYsY2R7q65kp7aG3SHmlntpixzZGuaefKtUdISEhISEhISEhISEhISEhIyP+Vf05p2n0=
+  </data>
+ </layer>
+ <layer name="door1" width="64" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt0lENgEAQA9H9O4vgABxwDjgHhwNwSUWUbDbMUzBNGgEAyLK0iLVlV+TZtH3/8f5D27txf7U/nWodxt5qf5pqvYy97j997VbrY+x1/6ka95+qcf8JAAAAAAAAqOoFs5sMtQ==
+  </data>
+ </layer>
+ <layer name="door2" width="64" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt0MENgDAMBEH/UiAJDQDpv4RYogVEHp6p4PYiAAD+d7SI3nav2OfK9rtw/9dGfnkW/vPJ9lm4HwAAAAB4LdNlAx0=
+  </data>
+ </layer>
+ <layer name="door3 &amp; windows" width="64" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt0DEKg0AQheHp3JOYG8QbKNqGKEkrKnqAeP28QiEEthgMwpL/g4WZYuQ9zQAAQMryYHYJ8d17f5Z7ZtZmx79zVfYixHfv/VkGdR9/0L9U9uojf625cfT5vk9Nq+yd3m37lw/NT0ef/T5Vo7JPev3Wf9a8OPrs96l6Kfsa4jsAAAAAAADwb97V8A2W
+  </data>
+ </layer>
+ <layer name="fountain" width="64" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztz8kRglAABNF/I/+QUAEXVFAWF1TQROwgLDn8flV9nwlBkiRJkiRpfmkSwoKWtKKMciqSuZf9x5qfG9rSjkra0yGS/0d+VlTTic7UUBvJ/46fPV3oSje60xDJ/wc/n/SikSZ60yeS/5IkSdKvfAE+Uh2s
+  </data>
+ </layer>
+ <layer name="town down" width="64" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt0MtKQlEUh/F9timF6cQLRtpEjaTLS2qimE7KUDQnZSSaL+EFQ+uZ+gYONnHAMyhs8P/gx5rtc9YyRimllFJKKaWUUkoppZRSSimldle2xlRwiypqqDuzgTs00bL7/ltjQp4xBwgjgkMcIYpjxBD3gr93z04PaOMRHXSd2UMfTxj8g/0T7JZECmlkcIJTZJHD2Xb/n7fyu9EzO71giFe8YeTMMSZ4x9QGe/Mvy/ONAoo4xwVKuMQVrnHj+d/K70YzdppjgSVW+HDmGht84ssGe/O3+waJTSRm
+  </data>
+ </layer>
+ <layer name="dec1" width="64" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztzyEOwCAQRUFk738WVBNQqCbtmUBQVThAYcbs5rsXAgAAAPAn8fhu52BbVemtqd3c/2uj/tfdmp8NuwEAAJirz0kGUw==
+  </data>
+ </layer>
+ <objectgroup color="#ff0000" name="bornaapp_collision">
+  <object id="24" x="632" y="12" width="112" height="244"/>
+  <object id="25" x="944" y="12" width="102" height="284"/>
+  <object id="27" x="1056" y="12" width="60" height="160"/>
+  <object id="28" x="1126" y="8" width="94" height="290"/>
+  <object id="29" x="1532" y="24" width="152" height="340"/>
+  <object id="30" x="1692" y="36" width="66" height="132"/>
+  <object id="31" x="1766" y="32" width="130" height="334"/>
+  <object id="32" x="1652" y="488" width="148" height="40"/>
+  <object id="34" x="140" y="944" width="624" height="68"/>
+  <object id="35" x="780" y="908" width="328" height="100"/>
+  <object id="36" x="1132" y="972" width="192" height="32"/>
+  <object id="37" x="8" y="12" width="600" height="380"/>
+  <object id="56" type="Circle" x="1351" y="522" width="144" height="144">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup color="#ffff7f" name="bornaapp_checkpoints">
+  <object id="1" name="naruto_start" x="1006.06" y="627.273"/>
+  <object id="3" name="master_start" x="1915.15" y="903.03"/>
+  <object id="4" name="master_stop1" x="1083.88" y="381.091"/>
+  <object id="6" name="master_stop2" x="127.15" y="479.636"/>
+  <object id="7" name="master_stop3" x="480.485" y="480.242"/>
+  <object id="39" name="boy_stop1" x="444" y="840"/>
+  <object id="40" name="boy_stop2" x="1844" y="600"/>
+  <object id="41" name="girl_stop1" x="848" y="84"/>
+  <object id="42" name="girl_stop2" x="1224" y="928"/>
+  <object id="43" name="girl_stop3" x="1584" y="492"/>
+  <object id="44" name="bird1_stop1" x="1420" y="467"/>
+  <object id="46" name="bird2_stop1" x="48" y="952"/>
+  <object id="67" name="naruto_211" x="1087" y="525"/>
+  <object id="68" name="naruto_212" x="1880" y="507"/>
+ </objectgroup>
+ <objectgroup color="#ffaa00" name="bornaapp_particles">
+  <object id="65" name="WATERFOUNTAIN" type="WaterFountain.prc" x="1424.24" y="551.515">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup color="#55aaff" name="bornaapp_portals">
+  <object id="50" name="restaurant" x="1696" y="320" width="60" height="72"/>
+  <object id="52" name="L11" x="1382" y="2" width="78" height="36"/>
+  <object id="53" name="L22" x="1994" y="568" width="48" height="104"/>
+  <object id="54" name="L31" x="1380" y="992" width="96" height="34"/>
+  <object id="57" name="shop" x="1066" y="264" width="46" height="64">
+   <ellipse/>
+  </object>
+ </objectgroup>
+</map>
