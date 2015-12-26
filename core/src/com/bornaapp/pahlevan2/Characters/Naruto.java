@@ -6,14 +6,14 @@ import com.badlogic.gdx.graphics.g2d.Animation;
 import com.badlogic.gdx.graphics.g2d.TextureRegion;
 import com.badlogic.gdx.math.Vector2;
 import com.badlogic.gdx.physics.box2d.BodyDef;
-import com.bornaapp.games.borna2d.Build;
-import com.bornaapp.games.borna2d.components.AnimationComponent;
-import com.bornaapp.games.borna2d.components.BodyComponent;
-import com.bornaapp.games.borna2d.components.PathComponent;
-import com.bornaapp.games.borna2d.components.SoundComponent;
-import com.bornaapp.games.borna2d.components.TextureAtlasComponent;
-import com.bornaapp.games.borna2d.game.Engine;
-import com.bornaapp.games.borna2d.physics.BODYSHAPE;
+import com.bornaapp.gamelib.borna2d.Build;
+import com.bornaapp.gamelib.borna2d.components.AnimationComponent;
+import com.bornaapp.gamelib.borna2d.components.BodyComponent;
+import com.bornaapp.gamelib.borna2d.components.PathComponent;
+import com.bornaapp.gamelib.borna2d.components.SoundComponent;
+import com.bornaapp.gamelib.borna2d.components.TextureAtlasComponent;
+import com.bornaapp.gamelib.borna2d.game.Engine;
+import com.bornaapp.gamelib.borna2d.physics.BODYSHAPE;
 
 public class Naruto {
 

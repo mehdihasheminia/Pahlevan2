@@ -1,7 +1,7 @@
 package com.bornaapp.pahlevan2;
 
-import com.bornaapp.games.borna2d.game.Engine;
-import com.bornaapp.games.borna2d.game.AppListener;
+import com.bornaapp.gamelib.borna2d.game.Engine;
+import com.bornaapp.gamelib.borna2d.game.AppListener;
 import com.bornaapp.pahlevan2.Levels.L21;
 import com.bornaapp.pahlevan2.Levels.L211;
 import com.bornaapp.pahlevan2.Levels.L212;

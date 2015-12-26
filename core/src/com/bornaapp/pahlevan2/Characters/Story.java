@@ -1,7 +1,7 @@
 package com.bornaapp.pahlevan2.Characters;
 
 import com.badlogic.gdx.utils.Array;
-import com.bornaapp.games.borna2d.game.Engine;
+import com.bornaapp.gamelib.borna2d.game.Engine;
 
 public class Story {
     Character owner;

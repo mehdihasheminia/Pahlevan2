@@ -1,17 +1,22 @@
-package com.bornaapp.pahlevan2.Menus;
+package com.bornaapp.gamelib.borna2d.game;
 
-import com.badlogic.gdx.Gdx;
-import com.badlogic.gdx.Input;
 import com.badlogic.gdx.graphics.g2d.BitmapFont;
 import com.badlogic.gdx.math.Vector2;
-import com.bornaapp.gamelib.borna2d.game.Engine;
-import com.bornaapp.gamelib.borna2d.game.LevelBase;
+import com.bornaapp.gamelib.borna2d.asset.Assets;
 
-public class PauseMenu extends LevelBase {
-    public PauseMenu() {
+/**
+ * Created by Mehdi on 9/14/2015.
+ * ...
+ */
+
+public class LoadingScreen extends LevelBase {
+
+    public LoadingScreen(Assets _assets){
         super("");
+        assetManager = _assets;
     }
 
+    private Assets assetManager;
     private BitmapFont font;
 
     @Override
@@ -26,15 +31,11 @@ public class PauseMenu extends LevelBase {
 
     @Override
     public void onUpdate() {
-        //queryInput
-        if (Gdx.input.isKeyJustPressed(Input.Keys.ESCAPE)) {
-            Engine.setLevel(Engine.getPreviousLevel().getName());
-        }
     }
 
     @Override
     public void onDraw() {
-        font.draw(getBatch(), "PAUSED", Engine.screenWidth_InPixels()/2f, Engine.screenHeight_InPixels()/2f);
+
     }
 
     @Override

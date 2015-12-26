@@ -1,23 +1,20 @@
 package com.bornaapp.pahlevan2.Levels;
 
-import com.badlogic.ashley.core.Entity;
 import com.badlogic.ashley.core.PooledEngine;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Input;
 import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.math.Vector2;
-import com.bornaapp.games.borna2d.UnitConverter;
-import com.bornaapp.games.borna2d.game.Engine;
-import com.bornaapp.games.borna2d.game.LevelBase;
-import com.bornaapp.games.borna2d.Build;
-import com.bornaapp.games.borna2d.systems.SoundSystem;
+import com.bornaapp.gamelib.borna2d.UnitConverter;
+import com.bornaapp.gamelib.borna2d.game.Engine;
+import com.bornaapp.gamelib.borna2d.game.LevelBase;
+import com.bornaapp.gamelib.borna2d.systems.SoundSystem;
+import com.bornaapp.gamelib.borna2d.systems.PathFindingSystem;
+import com.bornaapp.gamelib.borna2d.systems.RenderingSystem;
+import com.bornaapp.gamelib.borna2d.systems.SyncSystem;
 import com.bornaapp.pahlevan2.Characters.BlueBird;
 import com.bornaapp.pahlevan2.Characters.Naruto;
 import com.bornaapp.pahlevan2.Characters.Pedestrian;
-import com.bornaapp.games.borna2d.systems.PathFindingSystem;
-import com.bornaapp.games.borna2d.systems.RenderingSystem;
-import com.bornaapp.games.borna2d.systems.SyncSystem;
-import com.bornaapp.pahlevan2.Menus.EntryMenu;
 import com.bornaapp.pahlevan2.Menus.PauseMenu;
 
 public class L21 extends LevelBase {
