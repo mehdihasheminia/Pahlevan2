@@ -12,8 +12,6 @@ import com.badlogic.gdx.physics.box2d.FixtureDef;
 import com.badlogic.gdx.physics.box2d.PolygonShape;
 import com.badlogic.gdx.physics.box2d.Shape;
 import com.bornaapp.gamelib.borna2d.components.NameComponent;
-import com.bornaapp.gamelib.borna2d.game.Engine;
-import com.bornaapp.gamelib.borna2d.physics.BODYSHAPE;
 import com.bornaapp.gamelib.borna2d.components.AnimationComponent;
 import com.bornaapp.gamelib.borna2d.components.BodyComponent;
 import com.bornaapp.gamelib.borna2d.components.ParticleComponent;
@@ -22,6 +20,8 @@ import com.bornaapp.gamelib.borna2d.components.PositionComponent;
 import com.bornaapp.gamelib.borna2d.components.SoundComponent;
 import com.bornaapp.gamelib.borna2d.components.TextureAtlasComponent;
 import com.bornaapp.gamelib.borna2d.physics.CollisionStatus;
+import com.bornaapp.gamelib.borna2d.physics.BODYSHAPE;
+import com.bornaapp.gamelib.borna2d.game.Engine;
 
 /**
  *

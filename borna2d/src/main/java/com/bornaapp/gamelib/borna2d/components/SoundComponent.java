@@ -2,7 +2,6 @@ package com.bornaapp.gamelib.borna2d.components;
 
 import com.badlogic.ashley.core.Component;
 import com.badlogic.gdx.audio.Sound;
-import com.bornaapp.gamelib.borna2d.game.Engine;
 
 /**
  * Created by Mehdi on 9/2/2015.

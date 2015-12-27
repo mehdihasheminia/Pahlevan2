@@ -2,7 +2,6 @@ package com.bornaapp.gamelib.borna2d.ai;
 
 import com.badlogic.gdx.maps.tiled.TiledMap;
 import com.badlogic.gdx.maps.tiled.TiledMapTileLayer;
-import com.badlogic.gdx.math.Rectangle;
 import com.badlogic.gdx.utils.Array;
 import com.bornaapp.gamelib.borna2d.Def;
 import com.bornaapp.gamelib.borna2d.game.Engine;

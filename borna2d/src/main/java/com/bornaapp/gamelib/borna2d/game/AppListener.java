@@ -1,6 +1,5 @@
 package com.bornaapp.gamelib.borna2d.game;
 
-import com.badlogic.gdx.Application;
 import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.Gdx;
 

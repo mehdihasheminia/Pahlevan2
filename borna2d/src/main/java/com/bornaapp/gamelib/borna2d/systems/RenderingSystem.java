@@ -11,9 +11,9 @@ import com.bornaapp.gamelib.borna2d.components.AnimationComponent;
 import com.bornaapp.gamelib.borna2d.components.BodyComponent;
 import com.bornaapp.gamelib.borna2d.components.ParticleComponent;
 import com.bornaapp.gamelib.borna2d.components.PositionComponent;
-import com.bornaapp.gamelib.borna2d.game.Engine;
 import com.bornaapp.gamelib.borna2d.components.SoundComponent;
 import com.bornaapp.gamelib.borna2d.components.TextureAtlasComponent;
+import com.bornaapp.gamelib.borna2d.game.Engine;
 
 import java.util.Comparator;
 
